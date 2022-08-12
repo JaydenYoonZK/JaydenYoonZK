@@ -6,7 +6,7 @@
 
 <img src="https://i.giphy.com/media/4Li5uzRPIIbfj6Fly4/giphy.webp" width="200px">
 
-<p>© 2020 Jayden Yoon ZK All Rights Reserved.</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=15&pause=1000&color=ABCF37&width=435&lines=%C2%A9+2020+Jayden+Yoon+ZK+All+Rights+Reserved.)](https://git.io/typing-svg)
 <!---
 JaydenYoonZK/JaydenYoonZK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
