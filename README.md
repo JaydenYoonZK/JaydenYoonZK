@@ -6,7 +6,7 @@
 
 <a href="https://www.JaydenYoon.com"><img src="https://i.giphy.com/media/4Li5uzRPIIbfj6Fly4/giphy.webp" width="200px"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=9&pause=1000&color=ABCF37&width=435&lines=%C2%A9+2020+Jayden+Yoon+ZK+All+Rights+Reserved.)](https://www.JaydenYoon.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=10&pause=1000&color=ABCF37&width=435&lines=%C2%A9+2020+Jayden+Yoon+ZK+All+Rights+Reserved.)](https://www.JaydenYoon.com)
 <!---
 JaydenYoonZK/JaydenYoonZK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
