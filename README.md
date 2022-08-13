@@ -26,6 +26,39 @@
 
   ---
 
+<details>
+$~$
+<summary><strong>Companies</strong></summary>
+
+<b>[ Parent Company ]</b>
+* JaydenART<sup>®</sup> Inc.
+
+<b>[ Technology Companies ]</b>
+* JaydenART<sup>®</sup> Tech Inc.
+* JayHackPro<sup>®</sup> Inc.
+
+<b>[ Film Company ]</b>
+* JaydenART<sup>®</sup> Film Inc.
+
+<b>[ Creative Company ]</b>
+* JaydenART<sup>®</sup> Creative Inc.
+
+<b>[ Music Company ]</b>
+* JaydenART<sup>®</sup> Music Inc.
+
+<b>[ Talent Agency ]</b>
+* JaydenART<sup>®</sup> Talent Inc.
+
+<b>[ Environmental Company ]</b>
+* A Leaf Aquaponics<sup>®</sup>
+
+<b>[ Food & Beverage Company ]
+* LUPA CAFÉ LOUNGE<sup>®</sup>
+
+</details>
+
+  ---
+
 <a href="https://www.JaydenYoon.com"><img src="https://i.giphy.com/media/4Li5uzRPIIbfj6Fly4/giphy.webp" width="200px"></a>
 
 <a href="https://www.JaydenYoon.com"><img src="https://komarev.com/ghpvc/?username=jaydenyoonzk&label=Profile%20Views&color=0e75b6&style=flat" align="right" alt="JaydenYoonZK" /></a>
