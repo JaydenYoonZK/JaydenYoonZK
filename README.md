@@ -32,6 +32,7 @@ $~$
 
 <b>[ Parent Company ]</b>
 * JaydenART<sup>®</sup> Inc.
+* Jayden Yoon ZK<sup>®</sup>
 
 <b>[ Technology Companies ]</b>
 * JaydenART<sup>®</sup> Tech Inc.
@@ -54,6 +55,8 @@ $~$
 
 <b>[ Food & Beverage Company ]
 * LUPA CAFÉ LOUNGE<sup>®</sup>
+* Fatty Daddiez F & B<sup>®</sup>
+* Jin Ling F & B<sup>®</sup>
 
 </details>
 
