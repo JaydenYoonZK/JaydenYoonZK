@@ -50,7 +50,7 @@ $~$
 * JaydenART<sup>®</sup> Talent Inc.
 
 <b>[ Environmental Company ]</b>
-* A Leaf Aquaponics<sup>®</sup>
+* ~~A Leaf Aquaponics<sup>®</sup>~~
 
 <b>[ Food & Beverage Company ]
 * LUPA CAFÉ LOUNGE<sup>®</sup>
