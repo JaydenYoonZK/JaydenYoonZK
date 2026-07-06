@@ -1,68 +1,121 @@
-<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Jayden Yoon ZK profile hero</title>
-  <desc id="desc">Full-stack developer working on web tools for online businesses.</desc>
+<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jayden Yoon ZK - full-stack developer</title>
+  <desc id="desc">Practical web tools for online businesses: client portals, billing flows, admin panels, and small automations.</desc>
   <defs>
-    <linearGradient id="hero-surface" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#050604"/>
-      <stop offset="0.42" stop-color="#10110e"/>
-      <stop offset="0.78" stop-color="#24211e"/>
-      <stop offset="1" stop-color="#544741"/>
+    <linearGradient id="h-surface" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#080706"/>
+      <stop offset="0.5" stop-color="#12100d"/>
+      <stop offset="1" stop-color="#2a241f"/>
     </linearGradient>
-    <linearGradient id="hero-panel" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.12"/>
-      <stop offset="0.42" stop-color="#ffffff" stop-opacity="0.055"/>
-      <stop offset="1" stop-color="#abcf37" stop-opacity="0.055"/>
+    <radialGradient id="h-glow" cx="0.12" cy="0.1" r="1">
+      <stop offset="0" stop-color="#abcf37" stop-opacity="0.08"/>
+      <stop offset="0.45" stop-color="#abcf37" stop-opacity="0.02"/>
+      <stop offset="1" stop-color="#abcf37" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="h-cardGlow" cx="0.5" cy="0.5" r="0.72">
+      <stop offset="0" stop-color="#abcf37" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#abcf37" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="h-spark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#abcf37" stop-opacity="0.25"/>
+      <stop offset="0.6" stop-color="#abcf37"/>
+      <stop offset="1" stop-color="#d7ec84"/>
     </linearGradient>
-    <linearGradient id="hero-accentLine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#abcf37" stop-opacity="0"/>
-      <stop offset="0.22" stop-color="#abcf37" stop-opacity="0.85"/>
-      <stop offset="0.58" stop-color="#f7f5ee" stop-opacity="0.7"/>
-      <stop offset="0.86" stop-color="#78d7c8" stop-opacity="0.75"/>
-      <stop offset="1" stop-color="#78d7c8" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="hero-grain" x="0" y="0" width="100%" height="100%">
+    <filter id="h-grain" x="0" y="0" width="100%" height="100%">
       <feTurbulence type="fractalNoise" baseFrequency="0.72" numOctaves="2" stitchTiles="stitch"/>
       <feColorMatrix type="saturate" values="0"/>
-      <feComponentTransfer>
-        <feFuncA type="table" tableValues="0 0.035"/>
-      </feComponentTransfer>
+      <feComponentTransfer><feFuncA type="table" tableValues="0 0.03"/></feComponentTransfer>
     </filter>
-    <clipPath id="hero-clip"><rect width="1200" height="520" rx="46"/></clipPath>
+    <clipPath id="h-clip"><rect width="1200" height="440" rx="40"/></clipPath>
   </defs>
-  <g clip-path="url(#hero-clip)">
-    <rect width="1200" height="520" rx="46" fill="url(#hero-surface)"/>
-    <rect width="1200" height="520" rx="46" filter="url(#hero-grain)" opacity="0.45"/>
-    <path d="M0 112C212 42 390 66 552 124C740 190 882 164 1200 54V520H0V112Z" fill="#abcf37" opacity="0.035"/>
-    <path d="M0 418C184 370 340 368 506 410C694 458 878 460 1200 342V520H0V418Z" fill="#ffffff" opacity="0.035"/>
-    <rect x="54" y="54" width="1092" height="412" rx="46" fill="url(#hero-panel)" stroke="#ffffff" stroke-opacity="0.16" stroke-width="2"/>
 
-    <g transform="translate(858 92)">
-      <rect x="0" y="0" width="244" height="244" rx="48" fill="#050604" fill-opacity="0.36" stroke="#ffffff" stroke-opacity="0.12"/>
-      <path d="M66 122H178" stroke="#f7f5ee" stroke-opacity="0.18" stroke-width="2" stroke-linecap="round"/>
-      <path d="M122 66V178" stroke="#f7f5ee" stroke-opacity="0.18" stroke-width="2" stroke-linecap="round"/>
-      <rect x="72" y="72" width="38" height="38" rx="14" fill="#abcf37" fill-opacity="0.92"/>
-      <rect x="134" y="72" width="38" height="38" rx="14" fill="#78d7c8" fill-opacity="0.82"/>
-      <rect x="72" y="134" width="38" height="38" rx="14" fill="#f7f5ee" fill-opacity="0.82"/>
-      <rect x="134" y="134" width="38" height="38" rx="14" fill="#544741" fill-opacity="0.88"/>
-      <path d="M91 91C128 91 116 153 153 153" stroke="#abcf37" stroke-width="5" stroke-linecap="round" stroke-dasharray="18 16">
-        <animate attributeName="stroke-dashoffset" values="34;0" dur="5.5s" repeatCount="indefinite"/>
-      </path>
-      <circle cx="122" cy="122" r="82" stroke="#ffffff" stroke-opacity="0.13" stroke-width="2"/>
-    </g>
+  <g clip-path="url(#h-clip)" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <rect width="1200" height="440" rx="40" fill="url(#h-surface)"/>
+    <rect width="1200" height="440" rx="40" fill="url(#h-glow)"/>
+    <rect width="1200" height="440" rx="40" filter="url(#h-grain)" opacity="0.5"/>
 
-    <text x="92" y="138" fill="#c9df6b" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="29" font-weight="850">Full-stack developer</text>
-    <text x="88" y="235" fill="#f7f5ee" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="90" font-weight="950">Jayden Yoon ZK</text>
-    <text x="92" y="304" fill="#f7f5ee" fill-opacity="0.88" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="38" font-weight="720">Practical web systems for online businesses.</text>
-    <text x="94" y="356" fill="#c9c4ba" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="29" font-weight="620">Client portals, admin screens, billing flows, and small automations.</text>
+    <!-- quiet horizon lines for depth -->
+    <path d="M0 356H1200" stroke="#ffffff" stroke-opacity="0.045"/>
+    <path d="M0 96H1200" stroke="#ffffff" stroke-opacity="0.03"/>
 
-    <g transform="translate(92 414)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-      <rect x="0" y="-11" width="14" height="14" rx="5" fill="#abcf37"/>
-      <text x="30" y="2" fill="#f7f5ee" fill-opacity="0.76" font-size="22" font-weight="650">Building in public, one clear repo at a time.</text>
-    </g>
-
-    <rect x="92" y="452" width="1016" height="3" rx="1.5" fill="url(#hero-accentLine)" opacity="0.82">
-      <animate attributeName="opacity" values="0.48;0.86;0.48" dur="7s" repeatCount="indefinite"/>
+    <!-- left: identity -->
+    <text x="96" y="118" fill="#abcf37" font-size="19" font-weight="800" letter-spacing="4.5">FULL-STACK DEVELOPER</text>
+    <text x="94" y="204" fill="#f3f0e9" font-size="78" font-weight="800" letter-spacing="-1.5">Jayden Yoon ZK</text>
+    <rect x="97" y="228" width="58" height="5" rx="2.5" fill="#abcf37">
+      <animate attributeName="width" values="58;76;58" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
     </rect>
+    <text x="96" y="286" fill="#ddd7cb" font-size="28" font-weight="600">Practical web tools for online businesses.</text>
+    <text x="96" y="322" fill="#a39c91" font-size="20" font-weight="500">Client portals, billing flows, admin panels, small automations.</text>
+
+    <g transform="translate(96 384)">
+      <circle cx="7" cy="-6" r="5" fill="#abcf37">
+        <animate attributeName="opacity" values="1;0.4;1" dur="3.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="7" cy="-6" r="5" stroke="#abcf37" stroke-opacity="0.4" fill="none">
+        <animate attributeName="r" values="5;11" dur="3.4s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.45;0" dur="3.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="26" y="0" fill="#c8c2b6" font-size="19" font-weight="600">Building in public, one clear repo at a time.</text>
+    </g>
+
+    <!-- right: living admin panel -->
+    <g>
+      <rect x="756" y="70" width="380" height="316" rx="30" fill="url(#h-cardGlow)"/>
+      <!-- back card for depth -->
+      <rect x="792" y="106" width="330" height="256" rx="24" fill="#ffffff" fill-opacity="0.028" stroke="#ffffff" stroke-opacity="0.05"/>
+      <!-- front card -->
+      <g transform="translate(774 88)">
+        <rect width="330" height="256" rx="24" fill="#0d0c0a" stroke="#ffffff" stroke-opacity="0.13"/>
+        <rect x="0.5" y="0.5" width="329" height="255" rx="23.5" fill="#ffffff" fill-opacity="0.02"/>
+        <!-- title bar -->
+        <circle cx="26" cy="25" r="4.5" fill="#ffffff" fill-opacity="0.14"/>
+        <circle cx="42" cy="25" r="4.5" fill="#ffffff" fill-opacity="0.14"/>
+        <circle cx="58" cy="25" r="4.5" fill="#ffffff" fill-opacity="0.14"/>
+        <circle cx="304" cy="25" r="4.5" fill="#abcf37">
+          <animate attributeName="opacity" values="1;0.35;1" dur="2.8s" repeatCount="indefinite"/>
+        </circle>
+        <path d="M0 44H330" stroke="#ffffff" stroke-opacity="0.08"/>
+        <!-- sidebar -->
+        <path d="M64 44V256" stroke="#ffffff" stroke-opacity="0.08"/>
+        <rect x="18" y="62" width="30" height="9" rx="4.5" fill="#abcf37" fill-opacity="0.85"/>
+        <rect x="18" y="84" width="30" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.12"/>
+        <rect x="18" y="106" width="30" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.12"/>
+        <rect x="18" y="128" width="30" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.12"/>
+        <!-- sparkline -->
+        <path d="M88 130C104 130 108 106 124 106C140 106 146 122 162 122C178 122 184 84 200 84C216 84 222 102 238 102C254 102 262 70 278 70C292 70 298 80 306 80"
+              stroke="url(#h-spark)" stroke-width="3.5" stroke-linecap="round"
+              stroke-dasharray="420" stroke-dashoffset="0">
+          <animate attributeName="stroke-dashoffset" values="420;0;0" keyTimes="0;0.32;1" dur="10s" repeatCount="indefinite" calcMode="spline" keySplines="0.3 0 0.2 1;0 0 1 1"/>
+        </path>
+        <circle cx="306" cy="80" r="5" fill="#d7ec84">
+          <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3;0.34;1" dur="10s" repeatCount="indefinite"/>
+        </circle>
+        <path d="M88 152H306" stroke="#ffffff" stroke-opacity="0.07"/>
+        <!-- bars -->
+        <g fill="#abcf37">
+          <rect x="92" y="188" width="24" height="44" rx="6" fill-opacity="0.9">
+            <animate attributeName="y" values="188;180;188" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+            <animate attributeName="height" values="44;52;44" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+          </rect>
+          <rect x="128" y="172" width="24" height="60" rx="6" fill-opacity="0.55">
+            <animate attributeName="y" values="172;179;172" dur="6.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+            <animate attributeName="height" values="60;53;60" dur="6.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+          </rect>
+          <rect x="164" y="198" width="24" height="34" rx="6" fill-opacity="0.4">
+            <animate attributeName="y" values="198;191;198" dur="5.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+            <animate attributeName="height" values="34;41;34" dur="5.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+          </rect>
+          <rect x="200" y="162" width="24" height="70" rx="6" fill-opacity="0.75">
+            <animate attributeName="y" values="162;170;162" dur="6.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+            <animate attributeName="height" values="70;62;70" dur="6.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+          </rect>
+        </g>
+        <!-- skeleton rows -->
+        <rect x="248" y="170" width="58" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.13"/>
+        <rect x="248" y="190" width="44" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.09"/>
+        <rect x="248" y="210" width="52" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.06"/>
+      </g>
+    </g>
   </g>
-  <rect x="1" y="1" width="1198" height="518" rx="45" stroke="#ffffff" stroke-opacity="0.14" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="438" rx="39" stroke="#ffffff" stroke-opacity="0.13" stroke-width="2"/>
 </svg>
