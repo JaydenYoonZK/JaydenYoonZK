@@ -41,4 +41,4 @@ Most of what I publish here starts as something I had to solve for a real projec
 
 ## Connect
 
-The best starting point is [JaydenYoonZK.com](https://www.jaydenyoonzk.com/). I also keep project work under [JaydenART](https://github.com/JaydenART) and [JayHackPro](https://github.com/JayHackPro). If one of my tools helped you — or broke — an issue or a star tells me what's worth building next.
+The best starting point is [JaydenYoonZK.com](https://www.jaydenyoonzk.com/). I also keep project work under [JaydenART](https://github.com/JaydenART) and [JayHackPro](https://github.com/JayHackPro). If one of my tools helped you or broke an issue or a star tells me what's worth building next.
