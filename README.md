@@ -1,75 +1,93 @@
-<a href="https://www.JaydenYoon.com"><img src="https://media.giphy.com/headers/JaydenYoonZK/QcorL0eRxdKA.jpg" width="100%"></a>
+<div align="center">
+  <a href="https://www.JaydenYoonZK.com">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:0369a1,100:10b981&text=Jayden%20Yoon%20ZK&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Full-stack%20developer%20building%20useful%20products,%20automation,%20and%20creative%20tools&descSize=16&descAlignY=58" width="100%" alt="Jayden Yoon ZK - full-stack developer">
+  </a>
 
-<p><b>Jayden Yoon Zeng Khai</b> <i>(Traditional Chinese: 袁正凱; Simplified Chinese: 袁正凯; Pinyin: Yuán Zhèng Kǎi)</i> was born on 20th of March, 1997, in Kota Kinabalu, Sabah, Malaysia. A Malaysian-Chinese entrepreneur, philanthropist, investor, singer/songwriter, musician, composer, producer, director, writer, actor, designer, photographer, programmer, dancer, beat-boxer, best known as an ARTist and the Founder & CEO of JaydenART® Inc., based in California, USA.</p>
+  <a href="https://github.com/JaydenYoonZK?tab=followers">
+    <img src="https://img.shields.io/github/followers/JaydenYoonZK?style=for-the-badge&logo=github&label=Followers&color=111827" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/JaydenYoonZK?tab=repositories">
+    <img src="https://img.shields.io/badge/Open%20source-building%20in%20public-10b981?style=for-the-badge&logo=github" alt="Building in public">
+  </a>
+  <a href="https://www.JaydenYoonZK.com">
+    <img src="https://img.shields.io/badge/Website-JaydenYoonZK.com-0369a1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JaydenYoonZK&style=for-the-badge&color=0e7490" alt="Profile views">
+</div>
 
-[![snake gif](https://github.com/JaydenYoonZK/JaydenYoonZK/blob/output/github-contribution-grid-snake.svg)](https://www.JaydenYoon.com)
+## Hi, I am Jayden
 
-  ---
+I am a full-stack developer and founder building practical software, creator tools, and automation for real business problems. I like clean interfaces, reliable systems, and projects that help people move faster without making the work feel heavier.
 
-<h3 align="left">Languages & Tools :</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+My public GitHub is being rebuilt around one simple promise: useful code, clear documentation, and projects worth starring because they save somebody time.
 
-  ---
+## Builder Signal
 
+| Focus | What I care about |
+| --- | --- |
+| Product engineering | Web apps, admin tools, dashboards, customer portals, and API integrations |
+| Automation | Workflows that remove repetitive work and make teams faster |
+| Developer experience | Practical docs, copy-paste-safe examples, and tools people can understand quickly |
+| Creative tech | Interfaces, media, brand systems, and software with personality |
 
-<h3 align="left">Social Networks :</h3>
-<p align="left">
-<a href="https://codepen.io/jaydenyoonzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaydenyoonzk" height="30" width="40" /></a>
-<a href="https://dev.to/jaydenyoonzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaydenyoonzk" height="30" width="40" /></a>
-<a href="https://twitter.com/jaydenyoonzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaydenyoonzk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaydenyoonzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaydenyoonzk" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19730267/jayden-yoon-zk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jaydenyoonzk" height="30" width="40" /></a>
-<a href="https://instagram.com/jaydenyoonzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaydenyoonzk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jaydenyoonzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jaydenyoonzk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jaydenyoonzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaydenyoonzk" height="30" width="40" /></a>
+## Featured Work
+
+| Project | Why it matters |
+| --- | --- |
+| [WHMCS Emoji Compatibility Guide](https://github.com/JaydenYoonZK/whmcs-emoji-compatibility-guide) | A focused compatibility resource for WHMCS builders who want emoji that renders cleanly in client-facing products, emails, and knowledge bases. |
+| [JayHackPro](https://github.com/JayHackPro) | Security-minded product and engineering work under the JayHackPro organization. |
+| [JaydenART](https://github.com/JaydenART) | Creative technology, product, media, and brand work under the JaydenART organization. |
+
+## Current Open-Source Direction
+
+I am turning my public repositories into small, high-signal tools and references:
+
+- WHMCS and hosting-business utilities
+- Practical automation scripts and templates
+- Developer-facing guides that are short, tested, and immediately useful
+- Clean examples that founders and builders can adapt without digging through noise
+
+## Tools I Reach For
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-  ---
+## GitHub Activity
 
-<details>
-$~$
-<summary><strong>Companies</strong></summary>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JaydenYoonZK&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="JaydenYoonZK GitHub stats">
+  <img height="165" src="https://streak-stats.demolab.com?user=JaydenYoonZK&theme=transparent&hide_border=true" alt="JaydenYoonZK GitHub streak">
+</p>
 
-<b>[ Parent Company ]</b>
-* JaydenART<sup>®</sup> Inc.
-* Jayden Yoon ZK<sup>®</sup>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JaydenYoonZK&theme=flat&no-frame=true&no-bg=true&margin-w=12&row=1" alt="GitHub profile trophies">
+</p>
 
-<b>[ Technology Companies ]</b>
-* JaydenART<sup>®</sup> Tech Inc.
-* JayHackPro<sup>®</sup> Inc.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/output/github-contribution-grid-snake.svg">
+</picture>
 
-<b>[ Film Company ]</b>
-* JaydenART<sup>®</sup> Film Inc.
+## Connect
 
-<b>[ Creative Company ]</b>
-* JaydenART<sup>®</sup> Creative Inc.
+<p>
+  <a href="https://www.JaydenYoonZK.com"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://twitter.com/JaydenYoonZK"><img src="https://img.shields.io/badge/X%20/%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"></a>
+  <a href="https://linkedin.com/in/jaydenyoonzk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:info@JaydenYoonZK.com"><img src="https://img.shields.io/badge/Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<b>[ Music Company ]</b>
-* JaydenART<sup>®</sup> Music Inc.
-
-<b>[ Talent Agency ]</b>
-* JaydenART<sup>®</sup> Talent Inc.
-
-<b>[ Environmental Company ]</b>
-* ~~A Leaf Aquaponics<sup>®</sup>~~
-
-<b>[ Food & Beverage Company ]
-* LUPA CAFÉ LOUNGE<sup>®</sup>
-* Fatty Daddiez F & B<sup>®</sup>
-* Jin Ling F & B<sup>®</sup>
-
-</details>
-
-  ---
-
-<a href="https://www.JaydenYoon.com"><img src="https://i.giphy.com/media/4Li5uzRPIIbfj6Fly4/giphy.webp" width="200px"></a>
-
-<a href="https://www.JaydenYoon.com"><img src="https://komarev.com/ghpvc/?username=jaydenyoonzk&label=Profile%20Views&color=0e75b6&style=flat" align="right" alt="JaydenYoonZK" /></a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=12&pause=1000&color=ABCF37&width=435&lines=%C2%A9+2020+Jayden+Yoon+ZK+All+Rights+Reserved.)](https://www.JaydenYoon.com)
-
-
-<!---
-JaydenYoonZK/JaydenYoonZK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for stopping by. I am building this profile in public, one useful repo at a time.
