@@ -25,19 +25,56 @@ My public GitHub is still being cleaned up. I am starting with small projects th
 
 ## Tools I use often
 
-<p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-abcf37?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=544741">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-abcf37?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=544741">
-  <img alt="React" src="https://img.shields.io/badge/React-abcf37?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=544741">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-abcf37?style=for-the-badge&logo=nodedotjs&logoColor=ffffff&labelColor=544741">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-abcf37?style=for-the-badge&logo=php&logoColor=ffffff&labelColor=544741">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-abcf37?style=for-the-badge&logo=laravel&logoColor=ffffff&labelColor=544741">
-  <img alt="Python" src="https://img.shields.io/badge/Python-abcf37?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=544741">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-abcf37?style=for-the-badge&logo=swift&logoColor=ffffff&labelColor=544741">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-abcf37?style=for-the-badge&logo=flutter&logoColor=ffffff&labelColor=544741">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-abcf37?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=544741">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-abcf37?style=for-the-badge&logo=githubactions&logoColor=ffffff&labelColor=544741">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-abcf37?style=for-the-badge&logo=figma&logoColor=ffffff&labelColor=544741">
+**Operating systems**
+
+<p>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white">
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000">
+  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=000000">
+</p>
+
+**Design**
+
+<p>
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=001E36">
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=330000">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+**Video**
+
+<p>
+  <img alt="Final Cut Pro" src="https://img.shields.io/badge/Final%20Cut%20Pro-000000?style=for-the-badge&logo=finalcutpro&logoColor=white">
+  <img alt="Adobe After Effects" src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=00005B">
+  <img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white">
+</p>
+
+**Productivity**
+
+<p>
+  <img alt="Microsoft Word" src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white">
+  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+  <img alt="Google Docs" src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+</p>
+
+**Code**
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</p>
+
+**Website builder**
+
+<p>
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </p>
 
 ## GitHub activity

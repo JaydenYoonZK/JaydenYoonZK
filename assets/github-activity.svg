@@ -14,8 +14,8 @@
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="520" rx="36" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1198" height="518" rx="35" stroke="#ffffff" stroke-opacity="0.14" stroke-width="2"/>
+  <rect width="1200" height="520" rx="44" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="518" rx="43" stroke="#ffffff" stroke-opacity="0.14" stroke-width="2"/>
   <rect x="-420" y="0" width="420" height="520" fill="url(#sweep)">
     <animate attributeName="x" values="-420;1200" dur="8.5s" repeatCount="indefinite"/>
   </rect>
@@ -25,23 +25,23 @@
   <text x="82" y="226" fill="#ffffff" fill-opacity="0.76" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="650">Useful, tested, and easy to revisit later.</text>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <rect x="78" y="282" width="500" height="74" rx="22" fill="#000000" fill-opacity="0.26" stroke="#ffffff" stroke-opacity="0.13"/>
-    <rect x="102" y="300" width="42" height="42" rx="12" fill="#abcf37"/>
+    <rect x="78" y="282" width="500" height="74" rx="28" fill="#000000" fill-opacity="0.26" stroke="#ffffff" stroke-opacity="0.13"/>
+    <rect x="102" y="300" width="42" height="42" rx="14" fill="#abcf37"/>
     <text x="116" y="330" fill="#000000" font-size="26" font-weight="950">1</text>
     <text x="166" y="327" fill="#ffffff" font-size="30" font-weight="900">WHMCS emoji guide</text>
 
-    <rect x="622" y="282" width="500" height="74" rx="22" fill="#000000" fill-opacity="0.26" stroke="#ffffff" stroke-opacity="0.13"/>
-    <rect x="646" y="300" width="42" height="42" rx="12" fill="#abcf37"/>
+    <rect x="622" y="282" width="500" height="74" rx="28" fill="#000000" fill-opacity="0.26" stroke="#ffffff" stroke-opacity="0.13"/>
+    <rect x="646" y="300" width="42" height="42" rx="14" fill="#abcf37"/>
     <text x="660" y="330" fill="#000000" font-size="26" font-weight="950">2</text>
     <text x="710" y="327" fill="#ffffff" font-size="30" font-weight="900">JSON data export</text>
 
-    <rect x="78" y="376" width="500" height="74" rx="22" fill="#000000" fill-opacity="0.26" stroke="#ffffff" stroke-opacity="0.13"/>
-    <rect x="102" y="394" width="42" height="42" rx="12" fill="#abcf37"/>
+    <rect x="78" y="376" width="500" height="74" rx="28" fill="#000000" fill-opacity="0.26" stroke="#ffffff" stroke-opacity="0.13"/>
+    <rect x="102" y="394" width="42" height="42" rx="14" fill="#abcf37"/>
     <text x="116" y="424" fill="#000000" font-size="26" font-weight="950">3</text>
     <text x="166" y="421" fill="#ffffff" font-size="30" font-weight="900">GitHub Pages cleanup</text>
 
-    <rect x="622" y="376" width="500" height="74" rx="22" fill="#000000" fill-opacity="0.26" stroke="#ffffff" stroke-opacity="0.13"/>
-    <rect x="646" y="394" width="42" height="42" rx="12" fill="#abcf37"/>
+    <rect x="622" y="376" width="500" height="74" rx="28" fill="#000000" fill-opacity="0.26" stroke="#ffffff" stroke-opacity="0.13"/>
+    <rect x="646" y="394" width="42" height="42" rx="14" fill="#abcf37"/>
     <text x="660" y="424" fill="#000000" font-size="26" font-weight="950">4</text>
     <text x="710" y="421" fill="#ffffff" font-size="30" font-weight="900">Issue templates</text>
   </g>
