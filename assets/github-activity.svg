@@ -45,7 +45,7 @@
         <circle cx="37.5" cy="39" r="0.4" fill="#c5e35c"/>
       </g>
       <text x="86" y="42" fill="#f3f0e9" font-size="22" font-weight="700">Client portals &amp; dashboards</text>
-      <text x="86" y="68" fill="#a39c91" font-size="16" font-weight="500">Screens people actually use to run their business.</text>
+      <text x="86" y="68" fill="#a39c91" font-size="16" font-weight="500">Screens people actually use every day.</text>
     </g>
 
     <!-- card 2: billing -->
@@ -58,7 +58,7 @@
         <path d="M37 49.5H43"/>
       </g>
       <text x="86" y="42" fill="#f3f0e9" font-size="22" font-weight="700">Billing flows &amp; WHMCS tooling</text>
-      <text x="86" y="68" fill="#a39c91" font-size="16" font-weight="500">Invoices, client areas, and the quirks around them.</text>
+      <text x="86" y="68" fill="#a39c91" font-size="16" font-weight="500">Invoices, client areas, and their quirks.</text>
     </g>
 
     <!-- card 3: content utilities -->
@@ -71,7 +71,7 @@
         <path d="M34 53H52"/>
       </g>
       <text x="86" y="42" fill="#f3f0e9" font-size="22" font-weight="700">Content &amp; copy utilities</text>
-      <text x="86" y="68" fill="#a39c91" font-size="16" font-weight="500">Paste-safe text, metadata, and formatting helpers.</text>
+      <text x="86" y="68" fill="#a39c91" font-size="16" font-weight="500">Paste-safe text and metadata helpers.</text>
     </g>
 
     <!-- card 4: automations -->
@@ -80,7 +80,7 @@
       <rect x="22" y="24" width="44" height="44" rx="14" fill="#abcf37" fill-opacity="0.13" stroke="#abcf37" stroke-opacity="0.35"/>
       <path d="M46.5 33L38 47.5H44L41.5 59L50 44.5H44L46.5 33Z" stroke="#c5e35c" stroke-width="2.4" stroke-linejoin="round" fill="none"/>
       <text x="86" y="42" fill="#f3f0e9" font-size="22" font-weight="700">Small business automations</text>
-      <text x="86" y="68" fill="#a39c91" font-size="16" font-weight="500">Little scripts that remove repeat work for small teams.</text>
+      <text x="86" y="68" fill="#a39c91" font-size="16" font-weight="500">Small scripts that remove repeat work.</text>
     </g>
 
     <rect x="96" y="398" width="1008" height="2.5" rx="1.25" fill="url(#f-baseline)">
