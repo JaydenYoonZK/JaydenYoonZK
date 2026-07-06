@@ -15,11 +15,11 @@
 
 I build web tools for the practical parts of running an online business: client portals, billing screens, admin panels, content utilities, and the small automations that save a team from repeat work.
 
-Most of what I publish here starts as something I had to solve for a real project. I keep the repos small, documented, and easy to try — if a tool needs a manual to install, I'd rather fix the tool.
+Most of what I publish here starts as something I had to solve for a real project. I keep the repos small, documented, and easy to try. If a tool needs a manual to install, I'd rather fix the tool.
 
 ## Featured
 
-**[WHMCS Emoji Compatibility Guide](https://github.com/JaydenYoonZK/whmcs-emoji-compatibility-guide)** — emoji don't always survive WHMCS product names, email templates, and knowledge base articles. Some render fine; others turn into `????` after saving. This is a tested compatibility reference with a browser copy board you can keep open while editing client-facing content.
+**[WHMCS Emoji Compatibility Guide](https://github.com/JaydenYoonZK/whmcs-emoji-compatibility-guide)** emoji don't always survive WHMCS product names, email templates, and knowledge base articles. Some render fine; others turn into `????` after saving. This is a tested compatibility reference with a browser copy board you can keep open while editing client-facing content.
 
 → [Open the live copy board](https://jaydenyoonzk.github.io/whmcs-emoji-compatibility-guide/) · [JSON data](https://github.com/JaydenYoonZK/whmcs-emoji-compatibility-guide/blob/main/docs/data/emoji.json)
 
