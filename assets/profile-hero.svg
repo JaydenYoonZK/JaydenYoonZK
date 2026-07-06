@@ -41,8 +41,9 @@
     <!-- left: identity -->
     <text x="96" y="118" fill="#abcf37" font-size="19" font-weight="800" letter-spacing="4.5">FULL-STACK DEVELOPER</text>
     <text x="94" y="204" fill="#f3f0e9" font-size="78" font-weight="800" letter-spacing="-1.5">Jayden Yoon ZK</text>
-    <rect x="97" y="228" width="58" height="5" rx="2.5" fill="#abcf37">
-      <animate attributeName="width" values="58;76;58" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+    <rect x="97" y="228" width="566" height="5" rx="2.5" fill="#abcf37">
+      <animate attributeName="width" values="0;566" dur="1.8s" repeatCount="1" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+      <animate attributeName="opacity" values="1;0.55;1" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
     </rect>
     <text x="96" y="286" fill="#ddd7cb" font-size="28" font-weight="600">Practical web tools for online businesses.</text>
     <text x="96" y="322" fill="#a39c91" font-size="20" font-weight="500">Client portals, billing flows, admin panels, small automations.</text>
