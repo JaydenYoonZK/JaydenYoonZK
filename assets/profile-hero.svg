@@ -1,47 +1,68 @@
 <svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Jayden Yoon ZK profile hero</title>
-  <desc id="desc">Full-stack developer working on WHMCS tools, admin panels, billing flows, and useful automation.</desc>
+  <desc id="desc">Full-stack developer working on web tools for online businesses.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#000000"/>
-      <stop offset="0.56" stop-color="#191412"/>
+    <linearGradient id="hero-surface" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050604"/>
+      <stop offset="0.42" stop-color="#10110e"/>
+      <stop offset="0.78" stop-color="#24211e"/>
       <stop offset="1" stop-color="#544741"/>
     </linearGradient>
-    <linearGradient id="edge" x1="88" y1="430" x2="1112" y2="430" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#abcf37" stop-opacity="0"/>
-      <stop offset="0.2" stop-color="#abcf37"/>
-      <stop offset="0.8" stop-color="#abcf37"/>
-      <stop offset="1" stop-color="#abcf37" stop-opacity="0"/>
+    <linearGradient id="hero-panel" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="0.42" stop-color="#ffffff" stop-opacity="0.055"/>
+      <stop offset="1" stop-color="#abcf37" stop-opacity="0.055"/>
     </linearGradient>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" stroke="#ffffff" stroke-opacity="0.045"/>
-    </pattern>
+    <linearGradient id="hero-accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#abcf37" stop-opacity="0"/>
+      <stop offset="0.22" stop-color="#abcf37" stop-opacity="0.85"/>
+      <stop offset="0.58" stop-color="#f7f5ee" stop-opacity="0.7"/>
+      <stop offset="0.86" stop-color="#78d7c8" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#78d7c8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="hero-grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.72" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.035"/>
+      </feComponentTransfer>
+    </filter>
+    <clipPath id="hero-clip"><rect width="1200" height="520" rx="46"/></clipPath>
   </defs>
+  <g clip-path="url(#hero-clip)">
+    <rect width="1200" height="520" rx="46" fill="url(#hero-surface)"/>
+    <rect width="1200" height="520" rx="46" filter="url(#hero-grain)" opacity="0.45"/>
+    <path d="M0 112C212 42 390 66 552 124C740 190 882 164 1200 54V520H0V112Z" fill="#abcf37" opacity="0.035"/>
+    <path d="M0 418C184 370 340 368 506 410C694 458 878 460 1200 342V520H0V418Z" fill="#ffffff" opacity="0.035"/>
+    <rect x="54" y="54" width="1092" height="412" rx="46" fill="url(#hero-panel)" stroke="#ffffff" stroke-opacity="0.16" stroke-width="2"/>
 
-  <rect width="1200" height="520" rx="44" fill="url(#bg)"/>
-  <rect width="1200" height="520" rx="44" fill="url(#grid)"/>
-  <rect x="48" y="48" width="1104" height="424" rx="38" fill="#000000" fill-opacity="0.28" stroke="#ffffff" stroke-opacity="0.14" stroke-width="2"/>
+    <g transform="translate(858 92)">
+      <rect x="0" y="0" width="244" height="244" rx="48" fill="#050604" fill-opacity="0.36" stroke="#ffffff" stroke-opacity="0.12"/>
+      <path d="M66 122H178" stroke="#f7f5ee" stroke-opacity="0.18" stroke-width="2" stroke-linecap="round"/>
+      <path d="M122 66V178" stroke="#f7f5ee" stroke-opacity="0.18" stroke-width="2" stroke-linecap="round"/>
+      <rect x="72" y="72" width="38" height="38" rx="14" fill="#abcf37" fill-opacity="0.92"/>
+      <rect x="134" y="72" width="38" height="38" rx="14" fill="#78d7c8" fill-opacity="0.82"/>
+      <rect x="72" y="134" width="38" height="38" rx="14" fill="#f7f5ee" fill-opacity="0.82"/>
+      <rect x="134" y="134" width="38" height="38" rx="14" fill="#544741" fill-opacity="0.88"/>
+      <path d="M91 91C128 91 116 153 153 153" stroke="#abcf37" stroke-width="5" stroke-linecap="round" stroke-dasharray="18 16">
+        <animate attributeName="stroke-dashoffset" values="34;0" dur="5.5s" repeatCount="indefinite"/>
+      </path>
+      <circle cx="122" cy="122" r="82" stroke="#ffffff" stroke-opacity="0.13" stroke-width="2"/>
+    </g>
 
-  <rect x="-320" y="0" width="320" height="520" fill="#abcf37" opacity="0.08">
-    <animate attributeName="x" values="-320;1200" dur="8s" repeatCount="indefinite"/>
-  </rect>
+    <text x="92" y="138" fill="#c9df6b" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="29" font-weight="850">Full-stack developer</text>
+    <text x="88" y="235" fill="#f7f5ee" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="90" font-weight="950">Jayden Yoon ZK</text>
+    <text x="92" y="304" fill="#f7f5ee" fill-opacity="0.88" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="38" font-weight="720">Practical web systems for online businesses.</text>
+    <text x="94" y="356" fill="#c9c4ba" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="29" font-weight="620">Client portals, admin screens, billing flows, and small automations.</text>
 
-  <g transform="translate(888 92)" opacity="0.68">
-    <circle cx="98" cy="98" r="76" stroke="#abcf37" stroke-width="3"/>
-    <circle cx="98" cy="98" r="30" stroke="#abcf37" stroke-width="3">
-      <animate attributeName="r" values="30;42;30" dur="4.8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.45;1" dur="4.8s" repeatCount="indefinite"/>
-    </circle>
-    <path d="M8 98H188M98 8V188" stroke="#abcf37" stroke-width="3" stroke-opacity="0.7"/>
+    <g transform="translate(92 414)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+      <rect x="0" y="-11" width="14" height="14" rx="5" fill="#abcf37"/>
+      <text x="30" y="2" fill="#f7f5ee" fill-opacity="0.76" font-size="22" font-weight="650">Building in public, one clear repo at a time.</text>
+    </g>
+
+    <rect x="92" y="452" width="1016" height="3" rx="1.5" fill="url(#hero-accentLine)" opacity="0.82">
+      <animate attributeName="opacity" values="0.48;0.86;0.48" dur="7s" repeatCount="indefinite"/>
+    </rect>
   </g>
-
-  <text x="88" y="136" fill="#abcf37" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="900">FULL-STACK DEVELOPER</text>
-  <text x="86" y="232" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="92" font-weight="950">Jayden Yoon ZK</text>
-  <text x="90" y="302" fill="#ffffff" fill-opacity="0.86" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="38" font-weight="720">Web tools for online businesses.</text>
-  <text x="90" y="354" fill="#ffffff" fill-opacity="0.72" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="620">Client portals, admin screens, billing flows, and small automations.</text>
-
-  <rect x="88" y="430" width="1024" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.08"/>
-  <rect x="88" y="430" width="1024" height="9" rx="4.5" fill="url(#edge)">
-    <animate attributeName="opacity" values="0.55;1;0.55" dur="5.5s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="1" y="1" width="1198" height="518" rx="45" stroke="#ffffff" stroke-opacity="0.14" stroke-width="2"/>
 </svg>
