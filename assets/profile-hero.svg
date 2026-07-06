@@ -1,46 +1,57 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Jayden Yoon ZK profile hero</title>
-  <desc id="desc">Full-stack developer building useful products, automation, and creative tools.</desc>
+  <desc id="desc">Full-stack developer building client portals, billing flows, admin tools, and practical automation.</desc>
   <defs>
-    <linearGradient id="hero-bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0f172a"/>
-      <stop offset="0.52" stop-color="#075985"/>
-      <stop offset="1" stop-color="#0f766e"/>
+    <linearGradient id="hero-bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.55" stop-color="#1c1715"/>
+      <stop offset="1" stop-color="#544741"/>
     </linearGradient>
-    <radialGradient id="glow-a" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 70) rotate(133) scale(360 180)">
-      <stop stop-color="#67e8f9" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#67e8f9" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow-b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 270) rotate(-22) scale(280 140)">
-      <stop stop-color="#34d399" stop-opacity="0.32"/>
-      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#ffffff" stroke-opacity="0.08"/>
+    <linearGradient id="green-line" x1="80" y1="292" x2="1120" y2="292" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#abcf37" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#abcf37"/>
+      <stop offset="0.7" stop-color="#abcf37"/>
+      <stop offset="1" stop-color="#abcf37" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="quiet-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#ffffff" stroke-opacity="0.055"/>
     </pattern>
+    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
   </defs>
-  <rect width="1200" height="320" rx="24" fill="url(#hero-bg)"/>
-  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
-  <rect width="1200" height="320" rx="24" fill="url(#glow-a)"/>
-  <rect width="1200" height="320" rx="24" fill="url(#glow-b)"/>
-  <g opacity="0.42">
-    <circle cx="1045" cy="92" r="52" stroke="#ffffff" stroke-width="2"/>
-    <circle cx="1045" cy="92" r="22" stroke="#ffffff" stroke-width="2"/>
-    <path d="M985 92H1105M1045 32V152" stroke="#ffffff" stroke-width="2"/>
+
+  <rect width="1200" height="360" rx="28" fill="url(#hero-bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#quiet-grid)"/>
+
+  <rect x="-260" y="0" width="260" height="360" fill="#abcf37" opacity="0.08">
+    <animate attributeName="x" values="-260;1200" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <g filter="url(#soft-shadow)">
+    <rect x="80" y="64" width="1040" height="232" rx="24" fill="#000000" fill-opacity="0.28" stroke="#ffffff" stroke-opacity="0.12"/>
   </g>
-  <text x="72" y="96" fill="#99f6e4" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="800" letter-spacing="4">FULL-STACK DEVELOPER</text>
-  <text x="70" y="166" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="66" font-weight="900" letter-spacing="0">Jayden Yoon ZK</text>
-  <text x="74" y="214" fill="#dbeafe" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="600">Building useful products, automation, and creative tools.</text>
-  <g transform="translate(72 248)">
-    <rect width="184" height="42" rx="21" fill="#ffffff" fill-opacity="0.14" stroke="#ffffff" stroke-opacity="0.22"/>
-    <text x="22" y="28" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="800">Open source</text>
-  </g>
-  <g transform="translate(274 248)">
-    <rect width="202" height="42" rx="21" fill="#ffffff" fill-opacity="0.14" stroke="#ffffff" stroke-opacity="0.22"/>
-    <text x="22" y="28" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="800">Founder mindset</text>
-  </g>
-  <g transform="translate(494 248)">
-    <rect width="220" height="42" rx="21" fill="#ffffff" fill-opacity="0.14" stroke="#ffffff" stroke-opacity="0.22"/>
-    <text x="22" y="28" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="800">Practical software</text>
-  </g>
+
+  <circle cx="1010" cy="126" r="54" stroke="#abcf37" stroke-width="2" stroke-opacity="0.72"/>
+  <circle cx="1010" cy="126" r="22" stroke="#abcf37" stroke-width="2" stroke-opacity="0.72">
+    <animate attributeName="r" values="22;30;22" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.72;0.26;0.72" dur="4.8s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M946 126H1074M1010 62V190" stroke="#abcf37" stroke-width="2" stroke-opacity="0.52"/>
+
+  <text x="124" y="122" fill="#abcf37" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="800" letter-spacing="4">JAYDENART GREEN</text>
+  <text x="120" y="184" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="64" font-weight="900" letter-spacing="0">Jayden Yoon ZK</text>
+  <text x="124" y="228" fill="#ffffff" fill-opacity="0.82" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="25" font-weight="600">Full-stack developer for client portals, billing flows, admin tools, and practical automation.</text>
+
+  <rect x="120" y="258" width="208" height="40" rx="20" fill="#abcf37"/>
+  <text x="145" y="284" fill="#000000" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="900">WHMCS utilities</text>
+  <rect x="344" y="258" width="178" height="40" rx="20" fill="#ffffff" fill-opacity="0.12" stroke="#ffffff" stroke-opacity="0.16"/>
+  <text x="369" y="284" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="800">Clean docs</text>
+  <rect x="538" y="258" width="196" height="40" rx="20" fill="#ffffff" fill-opacity="0.12" stroke="#ffffff" stroke-opacity="0.16"/>
+  <text x="563" y="284" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="800">Useful scripts</text>
+
+  <rect x="80" y="316" width="1040" height="6" rx="3" fill="#ffffff" fill-opacity="0.08"/>
+  <rect x="80" y="316" width="1040" height="6" rx="3" fill="url(#green-line)">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
 </svg>

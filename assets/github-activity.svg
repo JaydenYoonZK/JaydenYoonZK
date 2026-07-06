@@ -1,53 +1,63 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">GitHub activity board</title>
-  <desc id="desc">Reliable activity board for Jayden Yoon ZK showing public work, achievements, and open-source direction.</desc>
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Recent GitHub work</title>
+  <desc id="desc">A JaydenART-styled board showing recent work on the WHMCS emoji guide, JSON data, GitHub Pages cleanup, and issue reporting.</desc>
   <defs>
-    <linearGradient id="activity-bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0b1120"/>
-      <stop offset="0.55" stop-color="#111827"/>
-      <stop offset="1" stop-color="#0f2f2c"/>
+    <linearGradient id="activity-bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.55" stop-color="#181311"/>
+      <stop offset="1" stop-color="#544741"/>
     </linearGradient>
-    <linearGradient id="accent" x1="72" y1="322" x2="1128" y2="322" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38bdf8"/>
-      <stop offset="0.52" stop-color="#10b981"/>
-      <stop offset="1" stop-color="#a3e635"/>
+    <linearGradient id="sweep" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#abcf37" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#abcf37" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#abcf37" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="420" rx="24" fill="url(#activity-bg)"/>
-  <rect x="1" y="1" width="1198" height="418" rx="23" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2"/>
-  <text x="72" y="72" fill="#99f6e4" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="900" letter-spacing="3">GITHUB ACTIVITY</text>
-  <text x="72" y="122" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="42" font-weight="900">Useful public work, cleaned up and shipping.</text>
-  <text x="72" y="162" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="500">No fragile third-party stat widgets here - this board is hosted from the profile repo.</text>
 
-  <g transform="translate(72 204)">
-    <rect width="244" height="108" rx="16" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.12"/>
-    <text x="24" y="38" fill="#38bdf8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="900">LIVE PROJECT</text>
-    <text x="24" y="72" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="800">WHMCS guide</text>
-    <text x="24" y="94" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="600">Pages + copy board</text>
+  <rect width="1200" height="430" rx="28" fill="url(#activity-bg)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="27" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2"/>
+
+  <rect x="-420" y="0" width="420" height="430" fill="url(#sweep)">
+    <animate attributeName="x" values="-420;1200" dur="8.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="76" y="76" fill="#abcf37" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="19" font-weight="900" letter-spacing="3">RECENT WORK</text>
+  <text x="76" y="128" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="42" font-weight="900">Small projects, kept tidy.</text>
+  <text x="76" y="168" fill="#ffffff" fill-opacity="0.72" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="500">I am using this profile to publish work as it becomes clear enough for other people to use.</text>
+
+  <g transform="translate(76 214)">
+    <rect width="248" height="112" rx="18" fill="#000000" fill-opacity="0.24" stroke="#ffffff" stroke-opacity="0.12"/>
+    <rect x="20" y="20" width="42" height="42" rx="12" fill="#abcf37"/>
+    <text x="32" y="49" fill="#000000" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="900">1</text>
+    <text x="80" y="44" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21" font-weight="900">WHMCS guide</text>
+    <text x="80" y="72" fill="#ffffff" fill-opacity="0.66" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="600">copy board for templates</text>
   </g>
 
-  <g transform="translate(340 204)">
-    <rect width="244" height="108" rx="16" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.12"/>
-    <text x="24" y="38" fill="#34d399" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="900">DEVELOPER VALUE</text>
-    <text x="24" y="72" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="800">JSON export</text>
-    <text x="24" y="94" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="600">Reusable data file</text>
+  <g transform="translate(344 214)">
+    <rect width="248" height="112" rx="18" fill="#000000" fill-opacity="0.24" stroke="#ffffff" stroke-opacity="0.12"/>
+    <rect x="20" y="20" width="42" height="42" rx="12" fill="#abcf37"/>
+    <text x="32" y="49" fill="#000000" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="900">2</text>
+    <text x="80" y="44" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21" font-weight="900">JSON data</text>
+    <text x="80" y="72" fill="#ffffff" fill-opacity="0.66" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="600">easy to reuse or audit</text>
   </g>
 
-  <g transform="translate(608 204)">
-    <rect width="244" height="108" rx="16" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.12"/>
-    <text x="24" y="38" fill="#facc15" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="900">WORKFLOW</text>
-    <text x="24" y="72" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="800">PRs merged</text>
-    <text x="24" y="94" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="600">Clean public history</text>
+  <g transform="translate(612 214)">
+    <rect width="248" height="112" rx="18" fill="#000000" fill-opacity="0.24" stroke="#ffffff" stroke-opacity="0.12"/>
+    <rect x="20" y="20" width="42" height="42" rx="12" fill="#abcf37"/>
+    <text x="32" y="49" fill="#000000" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="900">3</text>
+    <text x="80" y="44" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21" font-weight="900">Pages cleanup</text>
+    <text x="80" y="72" fill="#ffffff" fill-opacity="0.66" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="600">sitemap, robots, metadata</text>
   </g>
 
-  <g transform="translate(876 204)">
-    <rect width="252" height="108" rx="16" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.12"/>
-    <text x="24" y="38" fill="#c084fc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="900">ACHIEVEMENTS</text>
-    <text x="24" y="72" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="800">Visible badges</text>
-    <text x="24" y="94" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="600">Pull Shark, Quickdraw, YOLO</text>
+  <g transform="translate(880 214)">
+    <rect width="244" height="112" rx="18" fill="#000000" fill-opacity="0.24" stroke="#ffffff" stroke-opacity="0.12"/>
+    <rect x="20" y="20" width="42" height="42" rx="12" fill="#abcf37"/>
+    <text x="32" y="49" fill="#000000" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="900">4</text>
+    <text x="80" y="44" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21" font-weight="900">Reports welcome</text>
+    <text x="80" y="72" fill="#ffffff" fill-opacity="0.66" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="600">tested emoji, versions, notes</text>
   </g>
 
-  <rect x="72" y="350" width="1056" height="10" rx="5" fill="#111827"/>
-  <rect x="72" y="350" width="1056" height="10" rx="5" fill="url(#accent)"/>
-  <text x="72" y="388" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700">Current signal: useful tools, short docs, verified workflows, and repos people can actually use.</text>
+  <rect x="76" y="364" width="1048" height="8" rx="4" fill="#ffffff" fill-opacity="0.09"/>
+  <rect x="76" y="364" width="1048" height="8" rx="4" fill="#abcf37" opacity="0.92"/>
+  <text x="76" y="398" fill="#ffffff" fill-opacity="0.72" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700">Current pace: clean one useful thing, document it, then move to the next.</text>
 </svg>
