@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.JaydenYoonZK.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:0369a1,100:10b981&text=Jayden%20Yoon%20ZK&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Full-stack%20developer%20building%20useful%20products,%20automation,%20and%20creative%20tools&descSize=16&descAlignY=58" width="100%" alt="Jayden Yoon ZK - full-stack developer">
+    <img src="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/main/assets/profile-hero.svg" width="100%" alt="Jayden Yoon ZK - full-stack developer">
   </a>
 
   <a href="https://github.com/JaydenYoonZK?tab=followers">
@@ -67,12 +67,7 @@ I am turning my public repositories into small, high-signal tools and references
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JaydenYoonZK&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="JaydenYoonZK GitHub stats">
-  <img height="165" src="https://streak-stats.demolab.com?user=JaydenYoonZK&theme=transparent&hide_border=true" alt="JaydenYoonZK GitHub streak">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaydenYoonZK&theme=flat&no-frame=true&no-bg=true&margin-w=12&row=1" alt="GitHub profile trophies">
+  <img src="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/main/assets/github-activity.svg" width="100%" alt="GitHub activity board for JaydenYoonZK">
 </p>
 
 <picture>
