@@ -19,9 +19,13 @@ Most of what I publish here starts as something I had to solve for a real projec
 
 ## ⭐ Featured
 
-**[WHMCS Emoji Compatibility Guide](https://github.com/JaydenYoonZK/whmcs-emoji-compatibility-guide)**. Emoji don't always survive WHMCS product names, email templates, and knowledge base articles. Some render fine; others turn into `????` after saving. This guide is a tested compatibility reference with a browser copy board you can keep open while editing client-facing content.
+**[AI Paste Cleaner](https://github.com/JaydenYoonZK/ai-paste-cleaner)** 🔍 Text copied from AI chats carries characters you cannot see: zero-width spaces, hidden watermark payloads, direction overrides. They break code and configs, and naive strippers destroy emoji and Persian text in the process. This one checks context before touching anything. [Try it live](https://jaydenyoonzk.github.io/ai-paste-cleaner/?demo).
 
-👉 [Open the live copy board](https://jaydenyoonzk.github.io/whmcs-emoji-compatibility-guide/) · [JSON data](https://github.com/JaydenYoonZK/whmcs-emoji-compatibility-guide/blob/main/docs/data/emoji.json)
+**[Phantom Deps](https://github.com/JaydenYoonZK/phantom-deps)** 👻 Code assistants suggest packages that sometimes do not exist, and attackers register those names with malware. Paste a package.json, requirements.txt, or code, and check every dependency against npm and PyPI. [Try it live](https://jaydenyoonzk.github.io/phantom-deps/?demo).
+
+**[AI Crawler Audit](https://github.com/JaydenYoonZK/ai-crawler-audit)** 🤖 Seventeen AI crawlers decide whether your content ends up in training data or AI search. See what your robots.txt actually tells each one, and generate a policy you chose on purpose. [Try it live](https://jaydenyoonzk.github.io/ai-crawler-audit/?demo).
+
+**[WHMCS Emoji Compatibility Guide](https://github.com/JaydenYoonZK/whmcs-emoji-compatibility-guide)** ✅ A tested reference for emoji that survive WHMCS product names, email templates, and knowledge base articles, with a browser copy board. [Open the copy board](https://jaydenyoonzk.github.io/whmcs-emoji-compatibility-guide/).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/main/assets/github-activity.svg" width="100%" alt="What you'll find here: client portals and dashboards, billing flows and WHMCS tooling, content utilities, and small business automations">
