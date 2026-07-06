@@ -1,50 +1,78 @@
 <svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Recent GitHub work</title>
-  <desc id="desc">Recent work includes a WHMCS guide, JSON data, GitHub Pages cleanup, and public issue templates.</desc>
+  <desc id="desc">Recent work includes a WHMCS guide, JSON data, GitHub Pages cleanup, and issue templates.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#000000"/>
-      <stop offset="0.58" stop-color="#1c1715"/>
+    <linearGradient id="activity-surface" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050604"/>
+      <stop offset="0.42" stop-color="#10110e"/>
+      <stop offset="0.78" stop-color="#24211e"/>
       <stop offset="1" stop-color="#544741"/>
     </linearGradient>
-    <linearGradient id="sweep" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#abcf37" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#abcf37" stop-opacity="0.25"/>
-      <stop offset="1" stop-color="#abcf37" stop-opacity="0"/>
+    <linearGradient id="activity-panel" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="0.42" stop-color="#ffffff" stop-opacity="0.055"/>
+      <stop offset="1" stop-color="#abcf37" stop-opacity="0.055"/>
     </linearGradient>
+    <linearGradient id="activity-accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#abcf37" stop-opacity="0"/>
+      <stop offset="0.22" stop-color="#abcf37" stop-opacity="0.85"/>
+      <stop offset="0.58" stop-color="#f7f5ee" stop-opacity="0.7"/>
+      <stop offset="0.86" stop-color="#78d7c8" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#78d7c8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="activity-grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.72" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.035"/>
+      </feComponentTransfer>
+    </filter>
+    <clipPath id="activity-clip"><rect width="1200" height="520" rx="46"/></clipPath>
   </defs>
+  <g clip-path="url(#activity-clip)">
+    <rect width="1200" height="520" rx="46" fill="url(#activity-surface)"/>
+    <rect width="1200" height="520" rx="46" filter="url(#activity-grain)" opacity="0.42"/>
+    <path d="M0 98C202 54 366 74 524 138C726 218 908 190 1200 82V520H0V98Z" fill="#78d7c8" opacity="0.026"/>
+    <rect x="1" y="1" width="1198" height="518" rx="45" stroke="#ffffff" stroke-opacity="0.14" stroke-width="2"/>
 
-  <rect width="1200" height="520" rx="44" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1198" height="518" rx="43" stroke="#ffffff" stroke-opacity="0.14" stroke-width="2"/>
-  <rect x="-420" y="0" width="420" height="520" fill="url(#sweep)">
-    <animate attributeName="x" values="-420;1200" dur="8.5s" repeatCount="indefinite"/>
-  </rect>
+    <text x="76" y="90" fill="#c9df6b" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="29" font-weight="850">Recent work</text>
+    <text x="76" y="169" fill="#f7f5ee" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="70" font-weight="950">Small projects, kept tidy.</text>
+    <text x="80" y="226" fill="#c9c4ba" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="29" font-weight="650">Useful, tested, and easy to revisit later.</text>
 
-  <text x="78" y="92" fill="#abcf37" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="900">RECENT WORK</text>
-  <text x="78" y="170" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="72" font-weight="950">Small projects, kept tidy.</text>
-  <text x="82" y="226" fill="#ffffff" fill-opacity="0.76" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="650">Useful, tested, and easy to revisit later.</text>
+    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+<g>
+      <rect x="76" y="276" width="502" height="78" rx="30" fill="#ffffff" fill-opacity="0.065" stroke="#ffffff" stroke-opacity="0.12"/>
+      <rect x="100" y="294" width="42" height="42" rx="15" fill="#abcf37"/>
+      <text x="114" y="324" fill="#050604" font-size="25" font-weight="950">1</text>
+      <text x="162" y="309" fill="#f7f5ee" font-size="27" font-weight="850">WHMCS emoji guide</text>
+      <text x="162" y="334" fill="#c9c4ba" font-size="17" font-weight="620">Copy board and compatibility notes</text>
+    </g>
+<g>
+      <rect x="622" y="276" width="502" height="78" rx="30" fill="#ffffff" fill-opacity="0.065" stroke="#ffffff" stroke-opacity="0.12"/>
+      <rect x="646" y="294" width="42" height="42" rx="15" fill="#abcf37"/>
+      <text x="660" y="324" fill="#050604" font-size="25" font-weight="950">2</text>
+      <text x="708" y="309" fill="#f7f5ee" font-size="27" font-weight="850">JSON data export</text>
+      <text x="708" y="334" fill="#c9c4ba" font-size="17" font-weight="620">Data that is easy to reuse</text>
+    </g>
+<g>
+      <rect x="76" y="374" width="502" height="78" rx="30" fill="#ffffff" fill-opacity="0.065" stroke="#ffffff" stroke-opacity="0.12"/>
+      <rect x="100" y="392" width="42" height="42" rx="15" fill="#abcf37"/>
+      <text x="114" y="422" fill="#050604" font-size="25" font-weight="950">3</text>
+      <text x="162" y="407" fill="#f7f5ee" font-size="27" font-weight="850">GitHub Pages cleanup</text>
+      <text x="162" y="432" fill="#c9c4ba" font-size="17" font-weight="620">Sitemap, robots, metadata</text>
+    </g>
+<g>
+      <rect x="622" y="374" width="502" height="78" rx="30" fill="#ffffff" fill-opacity="0.065" stroke="#ffffff" stroke-opacity="0.12"/>
+      <rect x="646" y="392" width="42" height="42" rx="15" fill="#abcf37"/>
+      <text x="660" y="422" fill="#050604" font-size="25" font-weight="950">4</text>
+      <text x="708" y="407" fill="#f7f5ee" font-size="27" font-weight="850">Issue templates</text>
+      <text x="708" y="432" fill="#c9c4ba" font-size="17" font-weight="620">Cleaner public project flow</text>
+    </g>
+    </g>
 
-  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <rect x="78" y="282" width="500" height="74" rx="28" fill="#000000" fill-opacity="0.26" stroke="#ffffff" stroke-opacity="0.13"/>
-    <rect x="102" y="300" width="42" height="42" rx="14" fill="#abcf37"/>
-    <text x="116" y="330" fill="#000000" font-size="26" font-weight="950">1</text>
-    <text x="166" y="327" fill="#ffffff" font-size="30" font-weight="900">WHMCS emoji guide</text>
-
-    <rect x="622" y="282" width="500" height="74" rx="28" fill="#000000" fill-opacity="0.26" stroke="#ffffff" stroke-opacity="0.13"/>
-    <rect x="646" y="300" width="42" height="42" rx="14" fill="#abcf37"/>
-    <text x="660" y="330" fill="#000000" font-size="26" font-weight="950">2</text>
-    <text x="710" y="327" fill="#ffffff" font-size="30" font-weight="900">JSON data export</text>
-
-    <rect x="78" y="376" width="500" height="74" rx="28" fill="#000000" fill-opacity="0.26" stroke="#ffffff" stroke-opacity="0.13"/>
-    <rect x="102" y="394" width="42" height="42" rx="14" fill="#abcf37"/>
-    <text x="116" y="424" fill="#000000" font-size="26" font-weight="950">3</text>
-    <text x="166" y="421" fill="#ffffff" font-size="30" font-weight="900">GitHub Pages cleanup</text>
-
-    <rect x="622" y="376" width="500" height="74" rx="28" fill="#000000" fill-opacity="0.26" stroke="#ffffff" stroke-opacity="0.13"/>
-    <rect x="646" y="394" width="42" height="42" rx="14" fill="#abcf37"/>
-    <text x="660" y="424" fill="#000000" font-size="26" font-weight="950">4</text>
-    <text x="710" y="421" fill="#ffffff" font-size="30" font-weight="900">Issue templates</text>
+    <rect x="76" y="478" width="1048" height="4" rx="2" fill="#ffffff" fill-opacity="0.08"/>
+    <rect x="76" y="478" width="1048" height="4" rx="2" fill="url(#activity-accentLine)" opacity="0.76">
+      <animate attributeName="opacity" values="0.42;0.82;0.42" dur="7.5s" repeatCount="indefinite"/>
+    </rect>
   </g>
-
-  <rect x="78" y="478" width="1044" height="8" rx="4" fill="#abcf37"/>
 </svg>
