@@ -12,13 +12,25 @@ Most of what I publish here starts as something I had to solve for a real projec
 
 ## ⭐ Featured
 
+Small, focused browser tools that fix one real problem well. Each runs entirely on your device, needs no install, and comes with a live demo.
+
+### 🧠 Working around AI
+
 **[AI Paste Cleaner](https://github.com/JaydenYoonZK/ai-paste-cleaner)** 🔍 Text copied from AI chats carries characters you cannot see: zero-width spaces, hidden watermark payloads, direction overrides. They break code and configs, and naive strippers destroy emoji and Persian text in the process. This one checks context before touching anything. [Try it live](https://jaydenyoonzk.github.io/ai-paste-cleaner/?demo).
 
 **[Package Reality Check](https://github.com/JaydenYoonZK/package-reality-check)** 👻 Code assistants suggest packages that sometimes do not exist, and attackers register those names with malware. Paste a package.json, requirements.txt, or code, and check every dependency against npm and PyPI. [Try it live](https://jaydenyoonzk.github.io/package-reality-check/?demo).
 
 **[AI Crawler Audit](https://github.com/JaydenYoonZK/ai-crawler-audit)** 🤖 Seventeen AI crawlers decide whether your content ends up in training data or AI search. See what your robots.txt actually tells each one, and generate a policy you chose on purpose. [Try it live](https://jaydenyoonzk.github.io/ai-crawler-audit/?demo).
 
-**[WHMCS Emoji Compatibility Guide](https://github.com/JaydenYoonZK/whmcs-emoji-compatibility-guide)** ✅ A tested reference for emoji that survive WHMCS product names, email templates, and knowledge base articles, with a browser copy board. [Open the copy board](https://jaydenyoonzk.github.io/whmcs-emoji-compatibility-guide/).
+### 🛠️ WordPress toolkit
+
+**[WP Serial Fix](https://github.com/JaydenYoonZK/wp-serial-fix)** 🧩 A raw SQL find-and-replace on a WordPress database silently corrupts serialized options, and widgets vanish with no error. Change URLs the safe way, or repair data a bad replace already broke. [Try it live](https://jaydenyoonzk.github.io/wp-serial-fix/?demo).
+
+**[WP Config Doctor](https://github.com/JaydenYoonZK/wp-config-doctor)** 🩺 Paste your wp-config.php for a plain-language security and performance audit, debug mode, sample salts, file editing, and more, each with the exact fix. Plus a fresh salt generator. [Try it live](https://jaydenyoonzk.github.io/wp-config-doctor/?demo).
+
+**[WP Plugin Checkup](https://github.com/JaydenYoonZK/wp-plugin-checkup)** ✅ The plugins you forgot about are the ones that get you hacked. Check your list against WordPress.org for removed, abandoned, and untested plugins. [Try it live](https://jaydenyoonzk.github.io/wp-plugin-checkup/?demo).
+
+**[WHMCS Emoji Compatibility Guide](https://github.com/JaydenYoonZK/whmcs-emoji-compatibility-guide)** 🎯 A tested reference for emoji that survive WHMCS product names, email templates, and knowledge base articles, with a browser copy board. [Open the copy board](https://jaydenyoonzk.github.io/whmcs-emoji-compatibility-guide/).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/main/assets/github-activity.svg" width="100%" alt="What you'll find here: client portals and dashboards, billing flows and WHMCS tooling, content utilities, and privacy-first browser tools">
