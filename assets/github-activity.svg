@@ -1,6 +1,6 @@
 <svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">What I build</title>
-  <desc id="desc">Client portals and dashboards, billing flows and WHMCS tooling, content utilities, and small business automations.</desc>
+  <desc id="desc">Client portals and dashboards, billing flows and WHMCS tooling, content utilities, and privacy-first browser tools.</desc>
   <defs>
     <linearGradient id="f-surface" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#080706"/>
@@ -78,9 +78,12 @@
     <g transform="translate(610 282)">
       <rect width="494" height="92" rx="24" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10"/>
       <rect x="22" y="24" width="44" height="44" rx="14" fill="#abcf37" fill-opacity="0.13" stroke="#abcf37" stroke-opacity="0.35"/>
-      <path d="M46.5 33L38 47.5H44L41.5 59L50 44.5H44L46.5 33Z" stroke="#c5e35c" stroke-width="2.4" stroke-linejoin="round" fill="none"/>
-      <text x="86" y="42" fill="#f3f0e9" font-size="22" font-weight="700">Small business automations</text>
-      <text x="86" y="68" fill="#a39c91" font-size="16" font-weight="500">Small scripts that remove repeat work.</text>
+      <g stroke="#c5e35c" stroke-width="2.4" stroke-linecap="round" fill="none">
+        <rect x="35.5" y="44" width="18" height="14" rx="4"/>
+        <path d="M39.5 44V39.5A5 5 0 0 1 49.5 39.5V44"/>
+      </g>
+      <text x="86" y="42" fill="#f3f0e9" font-size="22" font-weight="700">Privacy-first browser tools</text>
+      <text x="86" y="68" fill="#a39c91" font-size="16" font-weight="500">Everything runs on your device.</text>
     </g>
 
     <rect x="96" y="398" width="1008" height="2.5" rx="1.25" fill="url(#f-baseline)">

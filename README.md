@@ -2,13 +2,6 @@
   <a href="https://www.jaydenyoonzk.com/">
     <img src="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/main/assets/profile-hero.svg" width="100%" alt="Jayden Yoon ZK, full-stack developer building practical web tools for online businesses">
   </a>
-
-  <p>
-    <a href="https://www.jaydenyoonzk.com/">Website</a> ·
-    <a href="https://github.com/JaydenYoonZK/whmcs-emoji-compatibility-guide">WHMCS emoji guide</a> ·
-    <a href="https://linkedin.com/in/jaydenyoonzk">LinkedIn</a> ·
-    <a href="mailto:info@JaydenYoonZK.com">Email</a>
-  </p>
 </div>
 
 ## 👋 Hi, I'm Jayden
@@ -28,7 +21,7 @@ Most of what I publish here starts as something I had to solve for a real projec
 **[WHMCS Emoji Compatibility Guide](https://github.com/JaydenYoonZK/whmcs-emoji-compatibility-guide)** ✅ A tested reference for emoji that survive WHMCS product names, email templates, and knowledge base articles, with a browser copy board. [Open the copy board](https://jaydenyoonzk.github.io/whmcs-emoji-compatibility-guide/).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/main/assets/github-activity.svg" width="100%" alt="What you'll find here: client portals and dashboards, billing flows and WHMCS tooling, content utilities, and small business automations">
+  <img src="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/main/assets/github-activity.svg" width="100%" alt="What you'll find here: client portals and dashboards, billing flows and WHMCS tooling, content utilities, and privacy-first browser tools">
 </p>
 
 ## 🧰 Everyday toolkit
@@ -45,4 +38,4 @@ Most of what I publish here starts as something I had to solve for a real projec
 
 ## 🤝 Connect
 
-The best starting point is [JaydenYoonZK.com](https://www.jaydenyoonzk.com/). I also keep project work under [JaydenART](https://github.com/JaydenART) and [JayHackPro](https://github.com/JayHackPro). If one of my tools helped you, a star tells me what's worth building next. If something broke, please open an issue.
+The best starting point is [JaydenYoonZK.com](https://www.jaydenyoonzk.com/), and I read everything sent to [info@JaydenYoonZK.com](mailto:info@JaydenYoonZK.com) or [LinkedIn](https://linkedin.com/in/jaydenyoonzk). I also keep project work under [JaydenART](https://github.com/JaydenART) and [JayHackPro](https://github.com/JayHackPro). If one of my tools helped you, a star tells me what's worth building next. If something broke, please open an issue.
