@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.jaydenyoonzk.com/">
-    <img src="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/main/assets/profile-hero.svg" width="100%" alt="Jayden Yoon ZK, full-stack developer building practical web tools for online businesses">
+    <img src="https://cdn.jsdelivr.net/gh/JaydenYoonZK/JaydenYoonZK@main/assets/profile-hero.svg" width="100%" alt="Jayden Yoon ZK, full-stack developer building practical web tools for online businesses">
   </a>
 </div>
 
@@ -33,19 +33,19 @@ Small, focused browser tools that fix one real problem well. Each runs entirely 
 **[WHMCS Emoji Compatibility Guide](https://github.com/JaydenYoonZK/whmcs-emoji-compatibility-guide)** 🎯 A tested reference for emoji that survive WHMCS product names, email templates, and knowledge base articles, with a browser copy board. [Open the copy board](https://jaydenyoonzk.github.io/whmcs-emoji-compatibility-guide/).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/main/assets/github-activity.svg" width="100%" alt="What you'll find here: client portals and dashboards, billing flows and WHMCS tooling, content utilities, and privacy-first browser tools">
+  <img src="https://cdn.jsdelivr.net/gh/JaydenYoonZK/JaydenYoonZK@main/assets/github-activity.svg" width="100%" alt="What you'll find here: client portals and dashboards, billing flows and WHMCS tooling, content utilities, and privacy-first browser tools">
 </p>
 
 ## 🧰 Everyday toolkit
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/main/assets/tools-panel.svg" width="100%" alt="Tools Jayden uses often: Windows, macOS, Linux, iOS, Android, Photoshop, Illustrator, Figma, Final Cut Pro, After Effects, DaVinci Resolve, Word, Excel, Google Docs, Google Sheets, HTML5, CSS, JavaScript, jQuery, C++, PHP, and WordPress">
+  <img src="https://cdn.jsdelivr.net/gh/JaydenYoonZK/JaydenYoonZK@main/assets/tools-panel.svg" width="100%" alt="Tools Jayden uses often: Windows, macOS, Linux, iOS, Android, Photoshop, Illustrator, Figma, Final Cut Pro, After Effects, DaVinci Resolve, Word, Excel, Google Docs, Google Sheets, HTML5, CSS, JavaScript, jQuery, C++, PHP, and WordPress">
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/JaydenYoonZK/JaydenYoonZK/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JaydenYoonZK/JaydenYoonZK@output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JaydenYoonZK/JaydenYoonZK@output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://cdn.jsdelivr.net/gh/JaydenYoonZK/JaydenYoonZK@output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 🤝 Connect

@@ -2,7 +2,9 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    # Off the top of the hour: on-the-hour slots are congested on GitHub
+    # Actions and runs there are often delayed by hours or skipped.
+    - cron: "37 5 * * *"
   workflow_dispatch:
 
 permissions:
