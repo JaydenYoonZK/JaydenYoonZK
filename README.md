@@ -36,7 +36,7 @@ Small, focused browser tools that fix one real problem well. Each runs entirely 
 
 **[SVG Stripper](https://github.com/JaydenYoonZK/svg-stripper)** 💃 Export an icon from Illustrator, Figma, or Inkscape and half the file is bloat the browser never needed. Strip it out and keep the picture, with a before and after preview so you can see nothing was lost. [Try it live](https://jaydenyoonzk.github.io/svg-stripper/).
 
-**[Background Begone](https://github.com/JaydenYoonZK/background-begone)** 🪄 Drop in a photo and a neural network lifts the subject out, hair and fur included, then hands back a transparent PNG. It all runs in your browser, so the photo never leaves your device. [Try it live](https://jaydenyoonzk.github.io/background-begone/).
+**[Background Bouncer](https://github.com/JaydenYoonZK/background-bouncer)** 🕴️ Drop in a photo and the bouncer keeps your subject, hair and fur included, while the background gets walked to the door. It hands back a transparent PNG, and it all runs in your browser, so the photo never leaves your device. [Try it live](https://jaydenyoonzk.github.io/background-bouncer/).
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/JaydenYoonZK/JaydenYoonZK@main/assets/github-activity.svg" width="100%" alt="What you'll find here: client portals and dashboards, billing flows and WHMCS tooling, content utilities, and privacy-first browser tools">
